@@ -56,7 +56,7 @@ function HeadSection() {
                             />
                         </Typography>
                         <Button variant="contained" onClick={()=>SmoothScroll("#contact")} className={classes.themeBtn}>Get In Touch</Button>
-                        <Button variant="outlined" href={"https://drive.google.com/file/d/1GDqiMvoE-HmMXToYGIxhbuoDlGqwRRqu/view"} target="_blank" className={classes.altBtn}>View Resume</Button>
+                        <Button variant="outlined" href={"https://drive.google.com/file/d/1d_YOZTEd0wCT09eO3seT0HDBL36H17zx/view?usp=sharing"} target="_blank" className={classes.altBtn}>View Resume</Button>
                     </Grid>
                     {!small && (
                         <Grid
